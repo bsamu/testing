@@ -1,0 +1,22 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getOpenDoors.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bsamu/testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bsamu/testing/issues"
+  },
+  "homepage": "https://github.com/bsamu/testing#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
